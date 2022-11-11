@@ -106,7 +106,7 @@ li a:hover {
   }
   
   .menu-bar ul li:hover .dropdown-menu ul {
-    display: block;
+    display: inline;
     margin: 10px;
   }
   

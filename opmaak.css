@@ -94,11 +94,11 @@ li a:hover {
   
   /* dropdown menu style */
   .dropdown-menu {
-    display: none;
+    display: inline;
   }
   
   .menu-bar ul li:hover .dropdown-menu {
-    display: block;
+    display: inline;
     position: absolute;
     left: 0;
     top: 100%;
@@ -106,7 +106,7 @@ li a:hover {
   }
   
   .menu-bar ul li:hover .dropdown-menu ul {
-    display: block;
+    display: inline-block;
     margin: 10px;
   }
   

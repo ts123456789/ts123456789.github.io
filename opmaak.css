@@ -116,11 +116,11 @@ li a:hover {
   }
   
   .dropdown-menu-1 {
-    display: none;
+    display: inline;
   }
   
   .dropdown-menu ul li:hover .dropdown-menu-1 {
-    display: block;
+    display: inline;
     position: absolute;
     left: 150px;
     top: 0;
